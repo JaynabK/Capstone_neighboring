@@ -1,0 +1,435 @@
+Restaurant Name,City,Cuisines
+Austin's BBQ and Oyster Bar,Albany,"BBQ, Burger, Seafood"
+BJ's Country Buffet,Albany,"American, BBQ"
+Cookie Shoppe,Albany,
+El Vaquero Mexican Restaurant,Albany,Mexican
+Elements Coffee Co - Northwest,Albany,"Coffee and Tea, Sandwich"
+Pearly's Famous Country Cookng,Albany,
+Chick-fil-A,Albany,Fast Food
+Guang Zhou Chinese Restaurant,Albany,"Asian, Chinese, Vegetarian"
+Harvest Moon,Albany,"Pizza, Bar Food, Sandwich"
+Henry Campbell's Steakhouse,Albany,"Steak, Tapas, Bar Food"
+Hong Kong Cafe,Albany,"Chinese, Seafood, Vegetarian"
+House of China Restaurant II,Albany,Chinese
+Jimmie's Hot Dogs,Albany,
+Locos Grill & Pub,Albany,"American, Burger, Sandwich"
+Longhorn Steakhouse,Albany,"American, Steak"
+Mikata Japanese Steakhouse,Albany,"Japanese, Steak, Sushi"
+Shogun Japanese Steak House,Albany,"Japanese, Steak, Sushi"
+The Catch Seafood Room & Oyster Bar,Albany,"Seafood, Tapas, Bar Food"
+Villa Gargano,Albany,"Italian, Pizza"
+3 Squares Diner,Albany,"American, Breakfast, Diner"
+Last Resort Grill,Athens,"American, Southern, Southwestern"
+Mama's Boy Restaurant,Athens,Southern
+Sr. Sol 1,Athens,Mexican
+Choo Choo Eastside,Athens,"Japanese, Korean"
+The Grill,Athens,"Breakfast, Burger, Sandwich"
+Big City Bread Cafe,Athens,"Breakfast, Sandwich"
+Clocked,Athens,"American, Burger, Sandwich"
+DePalma's Italian Cafe - Downtown,Athens,"American, Italian, Pizza"
+DePalma's Italian Cafe - East Side,Athens,"American, Italian, Pizza"
+Five & Ten,Athens,American
+Grit,Athens,"International, Southern, Vegetarian"
+Ike & Jane,Athens,Sandwich
+La Dolce Vita Ristorante,Athens,Italian
+Shokitini,Athens,"Asian, Japanese, Sushi"
+Taqueria Del Sol,Athens,"Mexican, Spanish"
+The National,Athens,"International, Southern"
+The Royal Peasant,Athens,Bar Food
+Transmetropolitan,Athens,"Italian, Pizza, Sandwich"
+Trappeze Pub,Athens,"Burger, Bar Food"
+Viva! Argentine Cuisine,Athens,"Desserts, Latin American, Argentine"
+Miyabi Kyoto Japanese Steak House,Augusta,"Chinese, Steak"
+Rae's Coastal Cafe,Augusta,"American, Caribbean, Seafood"
+The Bee's Knees,Augusta,"International, Tapas, Vegetarian"
+Boll Weevil Cafe,Augusta,"Desserts, Sandwich, Southern"
+Farmhaus Burger,Augusta,"American, Burger"
+Manuel's Bread Cafe,Augusta,"Breakfast, French"
+Sconyers Bar B Que,Augusta,BBQ
+Frog Hollow Tavern,Augusta,American
+Giuseppe's Pizza & Italian Specialities,Augusta,"Desserts, Italian, Pizza"
+Mellow Mushroom,Augusta,"Italian, Pizza, Sandwich"
+Nacho Mamas Burritos,Augusta,Mexican
+Rhinehart's Oyster Bar,Augusta,"Bar Food, Sandwich, Seafood"
+Takosushi,Augusta,"Mexican, Southwestern, Sushi"
+The Chop House,Augusta,Steak
+The Taj of India,Augusta,Indian
+Augsburg Haus,Augusta,German
+Pho Bac,Augusta,Vietnamese
+Rhinehart's Oyster Bar,Augusta,"Burger, Seafood"
+Thai Kitchen,Augusta,Thai
+El Kiosco Mexican Restaurant,Augusta,Mexican
+Bardenay,Boise,"American, Bar Food"
+Flatbread Neapolitan Pizzeria,Boise,"Italian, Pizza"
+Goldy's Breakfast Bistro,Boise,"Breakfast, Sandwich"
+Chandlers Steakhouse,Boise,"American, Seafood, Steak"
+Bar Gernika Basque Pub & Eatery,Boise,"European, Spanish"
+Barbacoa Restaurant,Boise,"Latin American, Steak"
+Big Jud's,Boise,"American, Burger, Sandwich"
+Bittercreek Ale House,Boise,"American, Bar Food"
+Boise Fry Company,Boise,"American, Burger"
+Flying Pie Pizzaria,Boise,Pizza
+Fork,Boise,"American, Burger"
+Guido's Original New York Style Pizza,Boise,Pizza
+Los Beto's,Boise,Mexican
+Lucianos Italian Restaurant,Boise,"Italian, Seafood, Vegetarian"
+Mai Thai Restaurant,Boise,"Sushi, Thai"
+Shige Japanese Cuisine,Boise,"Japanese, Sushi, Teriyaki"
+The Egg Factory,Boise,Breakfast
+Tucanos,Boise,Brazilian
+Texas Roadhouse,Boise,"American, BBQ, Steak"
+Brick 29,Boise,American
+Winifreds,Cedar Rapids/Iowa City,"American, Mediterranean, Seafood"
+Biaggi's Ristorante Italiano,Cedar Rapids/Iowa City,"Italian, Pizza"
+El Super Burrito,Cedar Rapids/Iowa City,Mexican
+Granite City Food & Brewery,Cedar Rapids/Iowa City,"American, Breakfast, Burger"
+Irish Democrat,Cedar Rapids/Iowa City,"American, BBQ, Burger"
+Taste of India,Cedar Rapids/Iowa City,Indian
+Thai Moon Restaurant,Cedar Rapids/Iowa City,"Chinese, Sushi, Thai"
+Ting's Red Lantern,Cedar Rapids/Iowa City,Chinese
+Monica's,Cedar Rapids/Iowa City,"American, Italian, Pizza"
+Exotic India,Cedar Rapids/Iowa City,Indian
+Shorts Burger and Shine,Cedar Rapids/Iowa City,Burger
+The Hamburg Inn No. 2 Inc.,Cedar Rapids/Iowa City,"American, Breakfast, Burger"
+Bluebird Diner,Cedar Rapids/Iowa City,"Breakfast, Diner"
+Graze,Cedar Rapids/Iowa City,"American, International, Sushi"
+A & A Pagliai's Pizza,Cedar Rapids/Iowa City,Pizza
+Atlas World Grill,Cedar Rapids/Iowa City,International
+BlackStone,Cedar Rapids/Iowa City,"American, Breakfast"
+Devotay,Cedar Rapids/Iowa City,"Mediterranean, Tapas, Vegetarian"
+Jimmy Jack's Rib Shack,Cedar Rapids/Iowa City,BBQ
+Zoeys Pizzeria,Cedar Rapids/Iowa City,"Pizza, Sandwich"
+Berry Patch Restaurant,Clatskanie,"American, Breakfast, Desserts"
+Sakura Sushi & Grill,Cochrane,"Asian, Japanese"
+Uptown Vietnam cuisine,Columbus,"Asian, Vietnamese"
+Cafe Le Rue @ The Landings,Columbus,"American, Seafood, Cajun"
+Mark's City Grille,Columbus,American
+B Merrell's,Columbus,"Burger, Bar Food, Southern"
+Cannon Brewpub,Columbus,"Pizza, Bar Food"
+Fuji Japanese Steak House,Columbus,"Japanese, Steak"
+Ruth Ann's Family Restaurant,Columbus,"Breakfast, Diner, Southern"
+Samurai Japanese Cuisine & Sushi Bar,Columbus,"Japanese, Steak, Sushi"
+Wasabi Sushi and Thai,Columbus,"Japanese, Sushi, Thai"
+Buckhead Bar and Grill,Columbus,"Seafood, Steak, Vegetarian"
+Burt's Butcher Shoppe and Eatery,Columbus,Steak
+Chef Lee's Peking Restaurant,Columbus,Chinese
+Country's Barbecue,Columbus,"BBQ, Southern"
+Deorio's,Columbus,"Italian, Pizza"
+Mellow Mushroom,Columbus,Pizza
+Meritage,Columbus,"American, Tapas"
+Mongo The Mongolian Fire Pit,Columbus,"Asian, Chinese"
+The Black Cow,Columbus,American
+Wood Stone,Columbus,"Italian, Mediterranean, Pizza"
+Hunter's Pub,Columbus,"American, Seafood, Steak"
+Thatcher's Barbeque and Grill,Dalton,"American, BBQ, Southern"
+Christian and Jake's Bistro,Dalton,"Desserts, Sandwich"
+Dub's High on the Hog,Dalton,BBQ
+Sierra's Mexican Restaurant,Dalton,"Mexican, Tex-Mex"
+Oakwood Cafe,Dalton,"BBQ, Breakfast, Southern"
+Chili's Grill & Bar,Dalton,American
+Fuji Japanese Steakhouse,Dalton,"Japanese, Sushi"
+Las Palmas,Dalton,Mexican
+Tony's Italian Restaurant & Pizza,Dalton,Italian
+Filling Station,Dalton,"American, Burger"
+Five Guys Burgers and Fries,Dalton,Fast Food
+Los Pablos,Dalton,Mexican
+Kobe Hibachi & Sushi,Dalton,"American, Japanese, Sushi"
+Soho Hibachi,Dalton,Japanese
+Thai Garden,Dalton,Thai
+Southern Bliss Bakery,Dalton,"Desserts, Sandwich"
+Bailey's Bar-B-Que,Dalton,BBQ
+Farm To Fork,Dalton,"American, Diner, Southern"
+Home Plate Grill,Dalton,"American, BBQ, Southern"
+Pie Slingers Pizzeria,Dalton,"Italian, Pizza"
+Olive Tree Cafe,Davenport,"Indian, Mediterranean, Middle Eastern"
+"Red Ginger Sushi, Grill & Bar",Davenport,"Sushi, Teriyaki"
+Crust Stone Oven Pizza,Davenport,"Burger, Pizza"
+Jimmy's Pancake House,Davenport,"American, Breakfast, Greek"
+Trattoria Tiramisu,Davenport,Italian
+Prairie Grille at SteepleGate Inn,Davenport,"American, Breakfast"
+Tantra Asian Bistro,Davenport,Asian
+Chick-fil-A,Davenport,Fast Food
+Duck City Bistro,Davenport,"American, French"
+Frick's Tap,Davenport,"American, Bar Food, BBQ"
+Los Agaves,Davenport,Mexican
+Azteca,Davenport,Mexican
+China Cafe,Davenport,Chinese
+Exotic Thai Restaurant,Davenport,Thai
+Front Street Brewery,Davenport,American
+Granite City Food & Brewery,Davenport,American
+Los Agaves,Davenport,Mexican
+Machine Shed Restaurant,Davenport,American
+Osaka,Davenport,"Japanese, Sushi"
+Texas Roadhouse,Davenport,"American, BBQ, Steak"
+Hickory Park,Des Moines,"BBQ, Burger, Desserts"
+The Cafe,Des Moines,"American, Coffee and Tea"
+Flying Mango,Des Moines,"BBQ, Caribbean, Cajun"
+Cool Basil,Des Moines,"Asian, Sushi, Thai"
+HuHot Mongolian Grill,Des Moines,"Asian, Chinese"
+Malo,Des Moines,"Latin American, Mexican"
+Centro,Des Moines,"Italian, Pizza"
+Fong's Pizza,Des Moines,"Chinese, Pizza"
+A Dong Restaurant,Des Moines,"Asian, Vegetarian, Vietnamese, Bubble Tea"
+Court Avenue Brewing Company,Des Moines,"American, Pizza, Bar Food"
+Django,Des Moines,French
+Miyabi 9,Des Moines,"Japanese, Sushi"
+Zombie Burger + Drink Lab,Des Moines,"Burger, Desserts, Vegetarian"
+Tursi's Latin King,Des Moines,"American, Italian"
+Tsing Tsao South,Des Moines,Chinese
+Bandit Burrito,Des Moines,"Breakfast, Mexican, Southwestern"
+Jethro's BBQ,Des Moines,"American, BBQ"
+The Machine Shed Restaurant,Des Moines,"American, Breakfast"
+Mi Patria,Des Moines,Latin American
+Waterfront Seafood Market,Des Moines,"Seafood, Sushi"
+Burnt Toast Cafe,Dubuque,Breakfast
+Catfish Charlie's,Dubuque,Seafood
+Salsa's Mexican Restaurant,Dubuque,Mexican
+Tony Roma's,Dubuque,"American, BBQ, Seafood"
+Vinny Vanucchi's,Dubuque,Italian
+Champps Americana,Dubuque,"American, Burger, Sandwich"
+Fiesta Cancun,Dubuque,Mexican
+Happy Joe's Pizza & Ice Cream,Dubuque,"Desserts, Pizza, Ice Cream"
+Houlihan's,Dubuque,"American, Burger"
+Ichiban Hibachi Steakhouse & Sushi Bar,Dubuque,"Japanese, Steak, Sushi"
+Kalmes Breaktime Bar & Grill,Dubuque,"American, Burger"
+L. May Eatery,Dubuque,"International, Pizza"
+Los Aztecas,Dubuque,Mexican
+Manna Java World Cafe,Dubuque,"Breakfast, Pizza"
+Mario's Italian Restaurant,Dubuque,"American, Italian"
+Pepper Sprout Incorporated,Dubuque,American
+Shot Tower Inn,Dubuque,"Italian, Pizza"
+Sunshine Family Restaurant,Dubuque,"American, Breakfast, Burger"
+Watershed Cafe,Dubuque,"American, Burger, Pizza, Cafe"
+Woodfire Grille,Dubuque,"American, Seafood, Steak"
+Jehova es Mi Pastor Tacos y Burritos,Fernley,Mexican
+Houndstooth Grill & Tavern,Gainesville,"American, Sandwich, Seafood"
+Hawg Wild BBQ & Catfish House,Gainesville,"BBQ, Burger, Seafood"
+Bourbon Street Grille,Gainesville,"American, Burger, Cajun"
+Corkscrew Cafe,Gainesville,
+Smokin Gold BBQ,Gainesville,BBQ
+Hoka-Hoka Japanese Steak & Sushi,Gainesville,"Chinese, Japanese, Thai"
+Shenanigan's Irish Pub,Gainesville,"Bar Food, Seafood, Vegetarian"
+Fish Tales Lakeside Grille,Gainesville,Seafood
+Antebellum,Gainesville,"American, Southern"
+Moonie's Texas Barbecue,Gainesville,"BBQ, Sandwich"
+Atlanta Highway Seafood Market,Gainesville,"Sandwich, Seafood, Cajun"
+Eat at Thai,Gainesville,Thai
+Smoke House BBQ and Catering,Gainesville,BBQ
+2 Dog,Gainesville,"American, European, Sandwich"
+Longstreet Cafe,Gainesville,Southern
+Re-Cess,Gainesville,"American, Southern"
+Bodensee,Gainesville,German
+Hofer's Bakery & Cafe,Gainesville,"German, Ice Cream"
+Troll Tavern,Gainesville,"Burger, German, Sandwich"
+The Nacoochee Village Tavern & Pizzeria,Gainesville,"Italian, Pizza, Sandwich"
+Burger Queen Drive In,Lakeview,"Burger, Desserts, Sandwich"
+Blue Orchid Thai Restaurant,Lincoln,Thai
+Emilio's Cuban Cafe,Macon,"Coffee and Tea, Cuban, Latin American"
+Ingleside Village Pizza,Macon,"Pizza, Sandwich"
+Jim Shaw's Seafood Grill & Bar,Macon,Seafood
+Mandarin Chinese Restaurant,Macon,"Chinese, Thai"
+Rookery,Macon,"Burger, Desserts, Bar Food"
+Dovetail,Macon,
+Bonefish Grill,Macon,"American, Seafood"
+Downtown Grill,Macon,Steak
+Greek Corner Deli,Macon,"Desserts, Greek, Sandwich"
+Natalia's,Macon,"European, Italian, Mediterranean"
+Papouli's Mediterranean Cafe & Market,Macon,"Greek, Mediterranean, Vegetarian"
+Benson's Steak and Sushi,Macon,"American, Chinese, Sushi"
+My Fathers Place,Macon,Italian
+Sushi Thai Restaurant,Macon,"Japanese, Sushi, Thai"
+The Mellow Mushroom,Macon,"Pizza, Sandwich, Vegetarian"
+El Jalisciense Mexican Restaurant,Macon,Mexican
+Greek Village,Macon,"American, Greek, Seafood"
+Martin's BBQ,Macon,BBQ
+Thai Pepper,Macon,"Japanese, Sushi, Thai"
+Zen Japanese Steakhouse and Sushi Bar,Macon,"Japanese, Steak, Sushi"
+Triangle Restaurant,Mc Millan,"Breakfast, Burger"
+HI Lite Bar & Lounge,Miller,
+Vince's Restaurant & Pizzeria,Monroe,"Italian, Pizza"
+The Artesian Restaurant,Ojo Caliente,"American, International, Southwestern"
+Cevн_che Tapas Bar & Restaurant,Orlando,"Spanish, Tapas"
+'Ohana,Orlando,Hawaiian
+Earl of Sandwich,Orlando,"American, Sandwich, Salad"
+Raglan Road Irish Pub and Restaurant,Orlando,Irish
+Cafн© Tu Tu Tango,Orlando,"New American, Tapas"
+Texas de Brazil,Orlando,"Brazilian, Steak"
+Bahama Breeze Island Grille,Orlando,Caribbean
+Maggiano's Little Italy,Orlando,Italian
+Hawkers Asian Street Fare,Orlando,"Asian, Thai"
+Tako Cheena by Pom Pom,Orlando,"Asian, Latin American, Vegetarian"
+Seasons 52 Fresh Grill,Orlando,American
+Hollerbach's Willow Tree Cafн©,Orlando,German
+Pom Pom's Teahouse and Sandwicheria,Orlando,"American, Sandwich, Tea"
+Yellow Dog Eats,Orlando,"American, BBQ, Sandwich"
+Tibby's New Orleans Kitchen,Orlando,Cajun
+The Coop,Orlando,"Southern, Cajun, Soul Food"
+Bosphorous Turkish Cuisine,Orlando,"Mediterranean, Turkish"
+Ethos Vegan Kitchen,Orlando,"American, Breakfast, Vegetarian"
+Hillstone,Orlando,
+The Ravenous Pig,Orlando,Pub Food
+Cactus Flower Cafe Navarre,Pensacola,"Mexican, Southwestern, Tex-Mex"
+McGuire's Irish Pub & Brewery,Pensacola,"Burger, Bar Food, Steak"
+New Yorker Deli & Pizzeria,Pensacola,"Italian, Pizza, Sandwich"
+Tu-Do Vietnamese Restaurant,Pensacola,"Asian, Vietnamese"
+Carrabba's Italian Grill,Pensacola,"Italian, Pizza, Seafood"
+Jaco's Bayfront Bar and Grille,Pensacola,Tapas
+The Tin Cow,Pensacola,"Burger, Bar Food"
+Cactus Flower Cafe,Pensacola,"Latin American, Mexican, Southwestern"
+Dharma Blue,Pensacola,"Seafood, Sushi"
+Global Grill,Pensacola,"European, International, Tapas"
+Ichiban,Pensacola,"Japanese, Sushi"
+The Fish House,Pensacola,"American, Seafood, Sushi"
+Tuscan Oven,Pensacola,"Italian, Mediterranean, Pizza"
+Flounders Chowder House,Pensacola,Seafood
+Hemingway's Island Grill,Pensacola,"Caribbean, Seafood, Steak"
+Native Cafe,Pensacola,"Breakfast, Burger"
+Peg Leg Pete's,Pensacola,"Burger, Sandwich, Seafood"
+The Grand Marlin,Pensacola,"Caribbean, Seafood"
+Original Georgios Authentic Greek Food,Pensacola,Greek
+Fisherman's Corner,Pensacola,"Sandwich, Seafood, Cajun"
+Rupes Burgers,Pocatello,"Burger, Fast Food"
+Texas Roadhouse,Pocatello,"American, BBQ, Steak"
+Riverwalk Cafe,Pocatello,"Asian, Thai"
+Royal Hotel,Pocatello,"Pizza, Bar Food"
+Buddy's Italian Restaurant,Pocatello,"Italian, Pizza, Sandwich"
+Butterburrs,Pocatello,"American, Breakfast"
+Chang Garden,Pocatello,Chinese
+Fifth Street Bagelry,Pocatello,"Coffee and Tea, Sandwich"
+Goody's Deli,Pocatello,"Pizza, Sandwich"
+Grecian Key Restaurant,Pocatello,"American, Greek"
+Outer Limits Fun Zone,Pocatello,"Burger, Pizza, Sandwich"
+Portneuf Valley Brewing,Pocatello,"American, Pizza"
+Sandpiper Restaurant & Lounge,Pocatello,"American, Seafood, Steak"
+Senor Iguanas,Pocatello,Mexican
+Sushi Family,Pocatello,"Asian, Sushi, Vegetarian"
+Taste of India Nepal,Pocatello,"Indian, International, Vegetarian"
+Thai Paradise,Pocatello,"Desserts, Thai"
+The Bridge,Pocatello,New American
+Nosh Mahal,Pocatello,"Indian, Persian"
+El Herradero,Pocatello,Mexican
+Barrett Junction Cafe,Potrero,"American, BBQ, Burger"
+Blue Point Grill,Princeton,Seafood
+Giovanni's Shrimp Truck,Rest of Hawaii,Seafood
+Kona Brewing Company,Rest of Hawaii,"American, Pizza, Bar Food"
+Leonard's Bakery,Rest of Hawaii,
+Coconuts Fish Cafe,Rest of Hawaii,Seafood
+Kihei Caffe,Rest of Hawaii,"American, Hawaiian"
+Monkeypod Kitchen by Merriman,Rest of Hawaii,Burger
+Sansei Seafood Restaurant & Sushi Bar,Rest of Hawaii,"Japanese, Seafood, Sushi"
+Star Noodle,Rest of Hawaii,Asian
+Aloha Mixed Plate,Rest of Hawaii,"Asian, Breakfast, Hawaiian"
+Gazebo,Rest of Hawaii,"Breakfast, Burger"
+Hula Grill,Rest of Hawaii,"Hawaiian, Seafood, Steak"
+Kimo's,Rest of Hawaii,"Hawaiian, Seafood, Steak"
+Mama's Fish House,Rest of Hawaii,"Hawaiian, Seafood"
+Marukame Udon,Rest of Hawaii,Japanese
+Yard House,Rest of Hawaii,"American, Asian, Burger"
+Lulu's Waikiki,Rest of Hawaii,American
+Duke's Waikiki,Rest of Hawaii,"Hawaiian, Seafood, Steak"
+Eggs 'n Things,Rest of Hawaii,Breakfast
+Roy's,Rest of Hawaii,"Asian, European, Seafood"
+Wailana Coffee House,Rest of Hawaii,"American, Breakfast, Hawaiian"
+The Lady & Sons,Savannah,Southern
+Green Truck Pub,Savannah,Burger
+Leopold's Ice Cream,Savannah,"Desserts, Sandwich, Ice Cream"
+Mrs. Wilkes' Dining Room,Savannah,"American, Southern"
+Zunzi's,Savannah,"International, Mediterranean, Sandwich"
+Moon River Brewing Company,Savannah,"American, Bar Food, Sandwich"
+Pirates' House Restaurant,Savannah,"American, Seafood, Steak"
+B. Matthew's Eatery,Savannah,"American, Breakfast"
+Crystal Beer Parlor,Savannah,"American, Bar Food"
+Goose Feathers Cafe and Bakery,Savannah,"Breakfast, Vegetarian"
+Henry's,Savannah,"American, Breakfast"
+Huey's On The River,Savannah,"Breakfast, Cajun"
+J. Christopher's,Savannah,"Breakfast, Diner, Sandwich"
+Lulu's Chocolate Bar,Savannah,"Coffee and Tea, Desserts"
+Rocks on the River,Savannah,"Pizza, Seafood, Steak"
+SOHO South Cafe,Savannah,"Cafe, Sandwich, Southern"
+The Olde Pink House,Savannah,"American, Seafood, Southern"
+Vic's On The River,Savannah,American
+The Crab Shack,Savannah,Seafood
+Tybee Island Social Club,Savannah,
+Archie's Waeside,Sioux City,"Burger, Seafood, Steak"
+Bob Roe's Pizza,Sioux City,"American, Pizza, Bar Food"
+Da Kao Restaurant,Sioux City,"Asian, Vegetarian, Vietnamese"
+Famous Dave's,Sioux City,BBQ
+Fuji Bay Japanese Restaurant,Sioux City,"Japanese, Sushi"
+HuHot Mongolian Grill,Sioux City,"Asian, Chinese"
+Hunan Palace,Sioux City,Chinese
+Jerry's Pizza,Sioux City,Pizza
+Jim's Burgers,Sioux City,Burger
+Johnnie Mars,Sioux City,"American, Desserts, Diner"
+Miles Inn,Sioux City,American
+Milwaukee Wiener House,Sioux City,"American, Fast Food"
+Minerva's Food & Cocktails,Sioux City,"American, Seafood, Steak"
+Monterrey Mexican Restaurant,Sioux City,Mexican
+Rebos,Sioux City,"Caribbean, Mexican, Cajun"
+Tokyo Japanese Steakhouse & Sushi Bar,Sioux City,"Japanese, Steak, Sushi"
+Diamond Thai Cuisine,Sioux City,"Asian, Thai, Vegetarian"
+El Fredo Pizza,Sioux City,Pizza
+Trattoria Fresco,Sioux City,Italian
+Kahill's Steak-Fish Chophouse,Sioux City,"American, Seafood, Steak"
+Rumba Island Bar & Grill,Tampa Bay,"BBQ, Caribbean, Seafood"
+Red Mesa Cantina,Tampa Bay,"Latin American, Mexican, Southwestern"
+BellaBrava,Tampa Bay,"American, Italian, Seafood"
+Ceviche Tapas Bar & Restaurant,Tampa Bay,"Spanish, Tapas"
+The Moon Under Water,Tampa Bay,"British, Bar Food, Sandwich"
+Bern's Steak House,Tampa Bay,"American, Desserts, Steak"
+Boca Kitchen Bar Market,Tampa Bay,Breakfast
+Edison: Food+Drink Lab,Tampa Bay,International
+Ceviche Tapas Bar & Restaurant,Tampa Bay,"Breakfast, Spanish, Tapas"
+Daily Eats,Tampa Bay,"American, Burger"
+Salt Rock Grill,Tampa Bay,"American, Seafood, Steak"
+Mazzaro's Italian Market,Tampa Bay,"Italian, Deli"
+Conch Republic Grill,Tampa Bay,"Sandwich, Seafood, Steak"
+Mr. Dunderbak's Biergarten and Marketplatz,Tampa Bay,"European, German"
+Red Mesa Restaurant,Tampa Bay,"Breakfast, Mexican"
+Datz,Tampa Bay,"Desserts, Bar Food"
+Ella's Americana Folk Art Cafe,Tampa Bay,"International, Italian, Southern"
+Taco Bus,Tampa Bay,"Mexican, Vegetarian"
+The Refinery,Tampa Bay,"Seafood, Steak"
+Columbia Restaurant,Tampa Bay,"Cuban, Spanish"
+Buffalo Wild Wings,Valdosta,Bar Food
+El Toreo Mexican Restaurant,Valdosta,Mexican
+306 North Restaurant,Valdosta,"Seafood, Southern"
+Austins Cattle Co,Valdosta,"Burger, Seafood, Steak"
+Beijing Cafe,Valdosta,"Asian, Chinese, Thai"
+Bleu Cafe,Valdosta,"Pizza, Sandwich"
+Bleu Pub,Valdosta,"Burger, Bar Food, Vegetarian"
+Bubba Jax Crab Shack,Valdosta,"Fast Food, Seafood"
+Cheddar's Scratch Kitchen,Valdosta,American
+El Cazador,Valdosta,Mexican
+Friends Grille and Bar,Valdosta,"American, Southern"
+Giulios Greek & Italian Restaurant,Valdosta,"Greek, Italian"
+La Jalisco Supermercato,Valdosta,Mexican
+Masato Japanese,Valdosta,"Japanese, Sushi"
+Mom & Dad's Italian Restaurant,Valdosta,Italian
+Mori's Japanese Steakhouse & Sushi Bar,Valdosta,"Japanese, Steak, Sushi"
+Passage 2 India,Valdosta,"Indian, Middle Eastern"
+Rodeo Mexican Restaurant,Valdosta,Mexican
+Steel Magnolias,Valdosta,Southern
+Smok'n Pig B-B-Q,Valdosta,BBQ
+Blue House Cafe,Vernonia,"Coffee and Tea, Mediterranean"
+Masala Grill & Coffee House,Waterloo,"Indian, Middle Eastern"
+Brown Bottle The Cedar Falls,Waterloo,"Italian, Pizza, Vegetarian"
+Four Queens Dairy Cream,Waterloo,Desserts
+Hong Kong Chinese Restaurant,Waterloo,Chinese
+HuHot Mongolian Grill,Waterloo,"Asian, Chinese"
+J's Homestyle Cooking,Waterloo,"American, Breakfast"
+Montage,Waterloo,"American, Italian, Seafood"
+Mulligan's Brick Oven Grill,Waterloo,"Burger, Pizza, Sandwich"
+Sakura,Waterloo,"Japanese, Sushi"
+Scratch,Waterloo,"Coffee and Tea, Desserts, Beverages"
+SOHO Sushi Bar & Deli,Waterloo,"Sandwich, Sushi, Tapas"
+Texas Roadhouse,Waterloo,"American, BBQ, Steak"
+Tony's La Pizzeria,Waterloo,"Pizza, Sandwich"
+Chapala,Waterloo,Mexican
+Galleria de Paco,Waterloo,American
+Golden China,Waterloo,Chinese
+Rudy's Tacos,Waterloo,Mexican
+The Screaming Eagle,Waterloo,"American, Bar Food"
+The Thai Bowl,Waterloo,Thai
+Tokyo Japanese Steak House,Waterloo,"Japanese, Steak, Sushi"
+Theo Yianni's Authentic Greek Restaurant,Weirton,"Burger, Greek, Sandwich"
+Fishpatrick's Crabby Cafe,Winchester Bay,"Burger, Seafood, Steak"
